@@ -1,7 +1,6 @@
 eb init udagramApiDev -r $AWS_DEFAULT_REGION -p node.js
 eb use udagramApiDev
 eb deploy udagramApiDev-dev
-
 eb setenv AWS_PROFILE=$AWS_DEFAULT_PROFILE
 eb setenv AWS_BUCKET=$AWS_BUCKET
 eb setenv AWS_REGION=$AWS_DEFAULT_REGION
