@@ -1,6 +1,4 @@
-# Description
 
-More in-depth documentation of the application.
 
 ## Dependencies
 
