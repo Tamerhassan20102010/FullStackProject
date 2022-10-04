@@ -22,7 +22,7 @@ The application server uses AWS RDS Postgres as a database for storing and retri
 The frontend application is deployed using AWS S3 Bucket. The bundled assets are uploaded to an S3 bucket and that
 the bucket is made publicly readable.
 
-- S3 Endpoint - Frontend: <http://mohammed-udagram.s3-website-us-east-1.amazonaws.com>
+- S3 Endpoint - Frontend: <http://myudagram123.s3-website.us-east-2.amazonaws.com>
 
 End-users can access the application from the Bucket URL.
 
