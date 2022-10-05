@@ -2,7 +2,7 @@ branch-defaults:
   default:
     environment: null
 global:
-  application_name: udagram-api
+  application_name: Myudagram
   artifact: www/Archive.zip
   branch: null
   default_ec2_keyname: null

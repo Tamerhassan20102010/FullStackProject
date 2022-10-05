@@ -1,6 +1,6 @@
-eb init  Tamer123 -r $AWS_DEFAULT_REGION -p node.js
-eb use  Tamer123-env
-eb deploy  Tamer123-env
+eb init  Myudagram -r $AWS_DEFAULT_REGION -p node.js
+eb use  Myudagram-env
+eb deploy  Myudagram-env
 
 eb setenv AWS_BUCKET=$AWS_BUCKET
 eb setenv AWS_PROFILE=$AWS_DEFAULT_PROFILE
