@@ -1,4 +1,4 @@
-eb init  udagram-api-div -r $AWS_DEFAULT_REGION -p node.js
+eb init  udagram-api -r $AWS_DEFAULT_REGION -p node.js
 eb use  udagram-api-div
 eb deploy  udagram-api-div
 
