@@ -1,6 +1,6 @@
-eb init  Tamer123-env -r $AWS_DEFAULT_REGION -p node.js
-eb use  Tamer123-env-div
-eb deploy  Tamer123-env-div
+eb init  Tamer123 -r $AWS_DEFAULT_REGION -p node.js
+eb use  Tamer123-env
+eb deploy  Tamer123-env
 
 eb setenv AWS_BUCKET=$AWS_BUCKET
 eb setenv AWS_REGION=$AWS_DEFAULT_REGION
