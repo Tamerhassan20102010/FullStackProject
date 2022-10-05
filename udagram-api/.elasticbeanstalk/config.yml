@@ -1,14 +1,15 @@
 branch-defaults:
   default:
-    environment: null
+    environment: Myudagram-env
+    group_suffix: null
+deploy:
+  artifact: ./www/Archive.zip
 global:
   application_name: Myudagram
-  artifact: www/Archive.zip
   branch: null
-  default_ec2_keyname: null
-  default_platform: Node.js 16
+  default_ec2_keyname: vockey
+  default_platform: Node.js 16 16 running on 64bit Amazon Linux 2
   default_region: us-east-1
-  deploy: null
   include_git_submodules: true
   instance_profile: null
   platform_name: null
