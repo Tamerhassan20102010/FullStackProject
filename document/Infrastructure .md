@@ -10,7 +10,7 @@ The application server uses AWS RDS Postgres as a database for storing and retri
 
 ### S3 Bucket
 
-- S3 Endpoint - Frontend: <http://udigram20102010.s3-website-us-east-1.amazonaws.com/home>
+- S3 Endpoint - Frontend: <http://udigram20102010.s3-website-us-east-1.amazonaws.com>
 
 
 ### Elastic Beanstalk
