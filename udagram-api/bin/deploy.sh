@@ -1,6 +1,6 @@
-eb init  Myudagram -r $AWS_DEFAULT_REGION -p node.js
-eb use  Myudagram-env
-eb deploy  Myudagram-env
+eb init  udagram-tamer -r $AWS_DEFAULT_REGION -p node.js
+eb use  udagram-tamer-dev
+eb deploy  udagram-tamer-dev
 
 eb setenv AWS_BUCKET=$AWS_BUCKET
 eb setenv AWS_PROFILE=$AWS_DEFAULT_PROFILE
