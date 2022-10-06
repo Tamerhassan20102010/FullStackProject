@@ -10,8 +10,8 @@
 
 - AWS EB CLI
 
-- AWS RDS database running Postgres.
+- AWS RDS database running Postgres. 
 
-- AWS S3 bucket for Frontend.
+- AWS S3 bucket for Frontend. 
 
 - AWS Elastic Beanstalk for Backend.
