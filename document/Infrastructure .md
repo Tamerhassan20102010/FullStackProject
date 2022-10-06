@@ -10,10 +10,10 @@ The application server uses AWS RDS Postgres as a database for storing and retri
 
 ### S3 Bucket
 
-- S3 Endpoint - Frontend: <http://myudagram123.s3-website.us-east-2.amazonaws.com>
+- S3 Endpoint - Frontend: <http://udigram20102010.s3-website-us-east-1.amazonaws.com/home>
 
 
 ### Elastic Beanstalk
 
 
-- Elastic Beanstalk URL - Backend: <http://udagram-server-env.eba-tjppuvab.us-east-1.elasticbeanstalk.com>
+- Elastic Beanstalk URL - Backend: <http://udagram-tamer-dev.eba-cfveqshk.us-east-1.elasticbeanstalk.com>
